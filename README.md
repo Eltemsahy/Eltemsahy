@@ -1,35 +1,48 @@
-# Hi, I'm Ebrahem
-Full-stack developer focused on building structured, real-world applications.
-Currently working with MERN Stack, with a strong interest in backend systems.
+# Hi, I'm Ebrahem Eltemsahy
 
----
+Computer Science student at EJUST focused on full-stack development and backend systems.
 
 ## Projects
 
+### Warehouse & Logistics Management System
+
+A full-stack application for managing warehouse operations and logistics.
+
+* **Stack:** React, TypeScript, Express.js, PostgreSQL, Tailwind CSS
+
 ### Flight Reservation System
-Backend system for managing flights, reservations, tickets, and payments.
-**Tech:** FastAPI, SQLAlchemy, SQLite, ReactJS, Bootstrap
+
+A database-driven system for managing flights, reservations, tickets, and payments.
+
+* **Stack:** React, PostgreSQL, PostgREST, Bootstrap
 
 ### Online Learning Platform
-Building a productivity-focused web app with intelligent assistance features.
-**Tech:** MERN Stack
+
+A learning and productivity platform with intelligent assistance features.
+
+* **Stack:** MongoDB, Express.js, React, Node.js
 
 ### Click Heatmap Tracker
-Tracks and visualizes user interactions on web pages.
-**Tech:** Python
 
-### Smart Workspace (In Progress)
-A combination of Notion and Jira.
-**Tech:** MERN Stack
+A Python project for tracking and visualizing user interactions on web pages.
 
----
+* **Stack:** Python
 
-## Tech
-React • Node.js • ExpressJS • FastAPI • MongoDB • SQLAlchemy • Tailwind
+### Smart Workspace *(In Progress)*
 
----
+A productivity and project-management application combining ideas from Notion and Jira.
+
+* **Stack:** MERN
+
+## Technical Skills
+
+* **Languages:** JavaScript, TypeScript, Python, C++, SQL, PL/pgSQL
+* **Frontend:** React, HTML, CSS, Bootstrap, Tailwind CSS
+* **Backend:** Node.js, Express.js, FastAPI, PostgREST
+* **Databases & ORM:** PostgreSQL, MongoDB, MySQL, SQLite, SQLAlchemy
+* **Tools:** Git, GitHub, Docker
 
 ## Links
-GitHub: (https://github.com/Eltemsahy)
-LinkedIn: (https://www.linkedin.com/in/ebrahem-eltemsahy)
-LeetCode: (https://leetcode.com/u/Ebrahem_Eltemsahy/)
+
+* [LinkedIn](https://www.linkedin.com/in/ebrahem-eltemsahy)
+* [LeetCode](https://leetcode.com/u/Ebrahem_Eltemsahy/)
